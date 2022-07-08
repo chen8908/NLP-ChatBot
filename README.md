@@ -172,7 +172,3 @@
 ```
 pytest
 ```
-
-## Maintainers:
-
-[佐登妮絲國際股份有限公司_台灣總公司](https://www.jourdeness.com.tw/)
