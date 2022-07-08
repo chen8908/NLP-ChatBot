@@ -1,0 +1,17 @@
+cnsenti==0.0.7
+coverage==6.4.1
+fastapi==0.78.0
+google-api-core==2.8.2
+google-auth==2.8.0
+google-auth-oauthlib==0.4.6
+google-cloud-dialogflow==2.13.0
+google-pasta==0.2.0
+googleapis-common-protos==1.56.2
+jieba==0.42.1
+keras==2.9.0
+numpy==1.21.6
+pydantic==1.9.1
+pytest==7.1.2
+requests==2.28.0
+tensorflow==2.9.1
+uvicorn==0.17.6
